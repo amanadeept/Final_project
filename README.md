@@ -49,7 +49,7 @@ We faced several limitation regarding this project. We had tried to make our app
 5.	Amandeep Kaur(1794404) Did Github
 
 
-<a href "https://user-images.githubusercontent.com/39096322/48379056-d9523780-e6a0-11e8-81a5-7ddd42ede674.gif"> </a>
+![finalprojectvideo](https://user-images.githubusercontent.com/39096322/48379056-d9523780-e6a0-11e8-81a5-7ddd42ede674.gif)
 
 
 
